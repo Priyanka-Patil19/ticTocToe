@@ -64,5 +64,6 @@ display: grid;
     box-sizing:40px;
     border-radius: 10%;
     border: 3px solid rgb(58, 77, 70);
+    font-size: 20px;
     cursor: pointer;
 }
